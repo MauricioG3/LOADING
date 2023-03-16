@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+
+<head>
+	<div class="procura">
+		<label style="float: left">Procurar</label>
+		<br>
+		<input type="search" placeholder="Digite aqui..." name="procura">
+		<button for="procura">Pesquisar</button>
+	</div>
+<img src="imagens/RCLOGO.png" class="rclogo">
+	<br><br><br>
+<header class="header">
+	<h1>BANCOS:</h1> 
+</header>
+<style>
+	.header h1{background-color: black;
+		color: white;
+		
+}
+
+	.textos{
+		background-color: #5783FF;
+}
+	.bancos a{color: black;
+		padding: 15px;
+		text-decoration: none;
+		font-weight: bold;
+		
+}
+
+	.bancos{margin: 20px;
+		padding-bottom: 100px
+}
+
+	.procura{float: left
+
+}
+	.procura input{float: left;
+		background-color: white;
+}
+
+	.rclogo{width: 150px;
+		float: right;
+}
+
+	.works a{ text-decoration: none;
+		color: black;
+		font-weight: bold;
+
+}
+
+	.iframe{position: relative;
+		left: 50px;
+
+}
+</style>
+</head>
+<body>
+	<div class="bancos">
+	<br>
+	<button><a href="https://ola.oleconsignado.com.br/Usuario/Index?ReturnUrl=Home" target="_blank" value="Olé">OLÉ</a></button>
+
+	<button><a href="https://panconsig.pansolucoes.com.br/WebAutorizador/?FISession=7d023eb6f09e" target="_blank">PAN</a></button>
+
+	<button><a href="https://www.bmgconsig.com.br/Index.do?method=prepare" target="_blank">BMG</a></button>
+
+	<button><a href="https://creditmanager.bancopaulista.com.br/Login.aspx?ReturnUrl=%2f" target="_blank">PAULISTA</a></button>
+
+	<button><a href="https://c6.c6consig.com.br/WebAutorizador/Login/AC.UI.LOGIN.aspx?FISession=7d023eb6f09e" target="_blank">C6 BANK</a></button>
+
+	<button><a href="https://epfweb.safra.com.br/Home/Login" target="_blank">SAFRA</a></button>
+
+	<button><a href="https://portaldecredito.daycoval.com.br/login" target="_blank">DAYCOVAL</a></button>
+
+	<button><a href="https://bemweb.bempromotora.com.br/autenticacao/login" target="_blank">BANRISUL</a></button>
+
+	<button><a href="https://www.bradescopromotoranet.com.br/Login.aspx" target="_blank">BRADESCO</a></button>
+
+	<button><a href="https://bf.getdoc.com.br/getdoc_corban/" target="_blank">GETDOC</a></button>
+
+	<button><a href="https://consignado.paranabanco.b.br/Login/AC.UI.LOGIN.aspx?FISession=5e9e44a4472b" target="_blank">PARANA BANK</a></button>
+
+	<button><a href="https://wss.credisim.com.br/BSGWEBSITES/WebAutorizador/Login/AC.UI.LOGIN.aspx?FISession=5e9e44a4472b" target="_blank">PAGBANK</a></button>
+
+
+	<button><a href="https://www.portalseguro.srv.br/Login.aspx?ReturnUrl=%2f" target="_blank">SABEMI</a></button>
+
+	<button><a href="https://webagente.eaglecred.com.br/index.php" target="_blank">FUTURO</a></button>
+
+</div>
+<div class="works">
+	<a href="https://lev.workbankvirtual.com.br/login.aspx?pdc=true" target="iframe">LEWE<a>
+	<a href="https://grupogold.stormfin.com.br/corretor/index.php" target="iframe">GOLD</a>
+	<a href="https://gftcredmais.workbankvirtual.com.br/login.aspx?pdc=true" target="iframe">GFT</a>
+</div>
+<iframe src="" width="900px" height="500" border="1px" name="iframe" class="iframe"></iframe>
+<div class="textos">
+	<h2>Criadores</h2>
+		<p>Mauricio Ferreira (Operacional)</p>
+		<p>Site de atalhos</p>
+		<p>Css + Html</p>
+
+
+	<a href="loading.html">Ir para a aba de promotoras</a>
+
+
+</div>
+</body>
+
+
+
+
+
+</html>
